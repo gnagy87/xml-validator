@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <title>Title5</title>
+    <docnumber>5P</docnumber>
+    <year>2A12</year>
+    <serialnumber>4321</serialnumber>
+    <type>Type2</type>
+    <code>2</code>
+    <date>2019-12-07</date>
+    <content>
+        <section>
+            <paragraph>paragraph</paragraph>
+        </section>
+        <section>
+            <paragraph>paragraph</paragraph>
+        </section>
+    </content>
+</document>

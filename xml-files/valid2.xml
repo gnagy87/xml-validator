@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <title>Title2</title>
+    <docnumber>2A</docnumber>
+    <year>2009</year>
+    <serialnumber>1234</serialnumber>
+    <type>Type2</type>
+    <code>2</code>
+    <date>2016-06-06</date>
+    <content>
+        <section>
+            <paragraph>paragraph</paragraph>
+            <paragraph>paragraph</paragraph>
+            <paragraph>paragraph</paragraph>
+        </section>
+    </content>
+</document>
