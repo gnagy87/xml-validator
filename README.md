@@ -6,4 +6,8 @@ XML validáló alkalmazás meglévő XSD alapján
 
 Használat:
 - javac XMLValidator.java
-- java XMLValidator "C:/folder/" "hasznalni_kivant_schema.xsd"
+- java XMLValidator "C:/xml-t_xsd-t_tartalmazo_konyvtar/" "hasznalni_kivant_schema.xsd"
+
+pl: 
+
+java XMLValidator "/xml-validator/xml-files" "schema.xsd"
